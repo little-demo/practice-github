@@ -1,1 +1,2 @@
-console.log('product model, that okkkkkkkkkkk');
+console.log('product model');
+console.log('product model from dev A');
