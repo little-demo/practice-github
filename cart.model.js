@@ -1,1 +1,1 @@
-console.log("cart model");
+console.log("cart model update from dev B");
